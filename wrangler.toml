@@ -5,7 +5,7 @@ compatibility_date = "2026-02-01"
 # 绑定 KV：把 id 替换成你创建的 KV namespace id
 [[kv_namespaces]]
 binding = "LIKES"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "cc4db1a4554049fb81aad3062fb5e7ae"
 
 # 可选：限制允许的站点来源（CORS）
 # 建议在 Cloudflare Dashboard 或 wrangler secret / vars 中设置：
